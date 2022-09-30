@@ -1,2 +1,0 @@
-= API Guidelines
-Work in Progress
